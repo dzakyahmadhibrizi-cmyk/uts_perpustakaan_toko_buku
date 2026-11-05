@@ -69,7 +69,8 @@ Pemisahan file dibuat modular: satu CSS dasar untuk semua halaman, CSS tema terp
 
 Berisi input email dan password serta tombol **Login**. Email dan password diperiksa terhadap `dataPengguna`. Jika kosong, muncul pesan merah di bawah kolom. Jika tidak cocok, muncul alert: *"Email/password yang anda masukkan salah"* (dialog bawaan browser, sehingga tidak tampak pada tangkapan layar). Jika berhasil, data pengguna disimpan di `localStorage` dan halaman berpindah ke dashboard.
 
-![Tampilan halaman login](docs/screenshots/01_login.png)
+<img width="1280" height="760" alt="01_login" src="https://github.com/user-attachments/assets/4a192b47-9a0b-46c0-ae3b-720bf152119d" />
+
 *Gambar 1. Tampilan halaman login*
 
 ![Validasi form login kosong](docs/screenshots/02_login_validasi.png)
