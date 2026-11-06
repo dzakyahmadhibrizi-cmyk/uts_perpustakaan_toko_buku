@@ -79,8 +79,8 @@ Berisi input email dan password serta tombol **Login**. Email dan password diper
 
 Tombol **Lupa Password** dan **Daftar** tampil dalam bentuk modal box. Modal Lupa Password memeriksa apakah email terdaftar. Modal Daftar memvalidasi nama, email, panjang password (minimal 6 karakter), mencegah email ganda, lalu menambahkan pengguna baru ke `dataPengguna`.
 
-![Modal Lupa Password](<img width="1280" height="760" alt="03_modal_lupa" src="https://github.com/user-attachments/assets/6676b0f4-7932-466a-97c2-bf805844b23c" />
-)
+![Modal Lupa Password]<img width="1280" height="760" alt="03_modal_lupa" src="https://github.com/user-attachments/assets/6676b0f4-7932-466a-97c2-bf805844b23c" />
+
 *Gambar 3. Modal box Lupa Password*
 
 ![Modal Daftar Akun](<img width="1280" height="760" alt="04_modal_daftar" src="https://github.com/user-attachments/assets/9e79970c-476e-4ca0-bffc-98e51f08168d" />
