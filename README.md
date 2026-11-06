@@ -73,8 +73,8 @@ Berisi input email dan password serta tombol **Login**. Email dan password diper
 
 *Gambar 1. Tampilan halaman login*
 
-![Validasi form login kosong](<img width="1280" height="760" alt="02_login_validasi" src="https://github.com/user-attachments/assets/40aa7415-a696-48ed-89b0-964d575755ff" />
-)
+!<img width="1280" height="760" alt="02_login_validasi" src="https://github.com/user-attachments/assets/40aa7415-a696-48ed-89b0-964d575755ff" />
+
 *Gambar 2. Validasi saat form login dikirim dalam keadaan kosong*
 
 Tombol **Lupa Password** dan **Daftar** tampil dalam bentuk modal box. Modal Lupa Password memeriksa apakah email terdaftar. Modal Daftar memvalidasi nama, email, panjang password (minimal 6 karakter), mencegah email ganda, lalu menambahkan pengguna baru ke `dataPengguna`.
